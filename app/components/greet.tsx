@@ -1,8 +1,8 @@
 export const Greet = () =>{
-    console.log("Hello World");
+    // console.log("Hello from Greet Comp");
     return (
         <>
-          <h1>Hello there</h1>
+          <h1>Hello This is Greet Comp</h1>
         </>
     )
     
